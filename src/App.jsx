@@ -13,8 +13,6 @@ import Projects from './pages/Projects'
 import Customers from './pages/Customers'
 import SliderForm from './pages/SliderForm'
 import Sliders from "./pages/Sliders"
-
-
 function App() {
 
   const {isAdmin} = useAppContext();
